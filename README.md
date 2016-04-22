@@ -1,4 +1,4 @@
-# Processing Vit Bukac Booter Attack Data
+# Processing Vit's Booter Attack Data
 
 I found a paper "Bukac, V., Stavova, V., Nemec, L., Riha, Z., & Matyas, V. (2015). Service in Denial - Clouds Going with the Winds. In Network and System Security (NSS)" and contact the first author, Vit (https://github.com/Vieteg), to use their data. The guy was awesome and very helpfull in the understanding of the data (Thanks Vit). The goal of this repository is to describe what I did with the data.
 
