@@ -1,6 +1,6 @@
 # Processing Vit's Booter Attack Data
 
-I found a paper "[Bukac, V., Stavova, V., Nemec, L., Riha, Z., & Matyas, V. (2015). Service in Denial - Clouds Going with the Winds. In Network and System Security (NSS)](http://crcs.cz/wiki/lib/exe/fetch.php?media=public:research:serviceindenial.pdf)" and contact the first author,[Viteg](https://github.com/Vieteg), to use their data. The guy was awesome and very helpfull in the understanding of the data (Thanks Vit). The goal of this repository is to describe what I did with the data.
+I found a paper "[Bukac, V., Stavova, V., Nemec, L., Riha, Z., & Matyas, V. (2015). Service in Denial - Clouds Going with the Winds. In Network and System Security (NSS)](http://crcs.cz/wiki/lib/exe/fetch.php?media=public:research:serviceindenial.pdf)" and contact the first author, [Viteg](https://github.com/Vieteg), to use their data. The guy was awesome and very helpfull in the understanding of the data (Thanks Vit). The goal of this repository is to describe what I did with the data.
 
 1. I download the data ([Links](https://github.com/crocs-muni/ddos-vault/blob/master/DDoSaaSTraces))
 2. I discovered (thanks to Viteg) that the target IP instead of '54.68.6.47' (written in the metadata) it is '172.31.28.132'
