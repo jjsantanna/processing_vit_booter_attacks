@@ -3,8 +3,6 @@ cd $1 #outputfolder with all the analyzed attacks
 ls |while read pcap
 do 
 	last_column=`cat $pcap/*.csv|head -1 |awk -F ";" '{ print $NF; }'`
-	echo $pcap
-	echo $last_column
 	if [ $last_column != "blame" ]
 		then 
 			sed -e "1 s/$/;blame/" $pcap/*.csv > temp
